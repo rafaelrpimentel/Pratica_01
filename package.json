@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "pratica_01.2",
+=======
+  "name": "pratica_01.1",
+>>>>>>> develop
   "version": "1.0.0.2",
   "description": "",
   "main": "index.js",
